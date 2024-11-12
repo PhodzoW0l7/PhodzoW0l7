@@ -1,4 +1,4 @@
-# Phodzo Nagana - Full Stack Developer & Cloud Administrator
+Full Stack Developer & Cloud Administrator
 
 Welcome to my GitHub! I’m a driven Full Stack Developer and Cloud Administrator with experience in web development, server management, and cybersecurity. Passionate about creating responsive websites, automating processes, and managing cloud environments, I bring a well-rounded technical skill set to every project. I specialize in technologies such as HTML, CSS, JavaScript, ReactJS, SQL, MongoDB, and Microsoft Azure.
 
