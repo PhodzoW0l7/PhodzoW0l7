@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
- <a href="[https://linkedin.com/in/phodzo-nagana](https://www.linkedin.com/in/phodzo-nagana-7067a1263/)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Phodzo LinkedIn"/>
+ <a href="https://www.linkedin.com/in/phodzo-nagana-7067a1263/" target="_blank">
+  <img src="https://shields.io" alt="Phodzo LinkedIn"/>
  </a>
  <a href="https://github.com/PhodzoW0l7" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Phodzo GitHub" />
